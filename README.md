@@ -1,6 +1,6 @@
 # **HTML/CSS/JS Test**
 
-This document provides an overview of the two HTML, CSS, and JavaScript tests: **Test 1 (Todo List App)** and **Test 2 (Book List App)**. Each test evaluates your ability to create functional and visually appealing web applications using front-end technologies.
+This document provides an overview of the two HTML, CSS, and JavaScript tests: **Test 1 (Todo List App)** and **Test 2 (Book List App)**. Each test evaluates my ability to create functional and visually appealing web applications using front-end technologies.
 
 ---
 
