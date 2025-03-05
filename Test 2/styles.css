@@ -1,0 +1,117 @@
+/* General Page Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f2f5;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styling */
+header {
+    background-color: #007bff; 
+    color: white;
+    padding: 20px;
+}
+
+/* Book Collection Title */
+.book-list h2 {
+    color: #ff5733; 
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Book List Section */
+.book-list {
+    max-width: 600px;
+    margin: 20px auto;
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Book Card Styling */
+.book-card {
+    background: #e3f2fd; 
+    border-left: 5px solid #007bff; 
+    border-radius: 6px;
+    padding: 12px;
+    margin-bottom: 12px;
+    text-align: left;
+    overflow: hidden;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+/* Ensuring long words do not overflow */
+.book-card p {
+    margin: 5px 0;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+/* Book Title Formatting - Largest and Blue */
+.book-card .title {
+    font-size: 22px; 
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+/* Title Value (Blue) */
+.book-card .title-value {
+    color: #007bff; 
+}
+
+/* Author Formatting - Medium Size and Bold */
+.book-card .author {
+    font-size: 18px;  
+    font-weight: bold;
+    color: black;
+}
+
+/* Description Formatting - Smallest */
+.book-card .description {
+    font-size: 16px;  
+    color: #333;
+}
+
+/* Label Formatting */
+.book-card p strong {
+    color: #ff5733; 
+}
+
+/* Buttons */
+button {
+    background: #007bff; 
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+button:hover {
+    background: #ff5733; 
+}
+
+/* Centering "Add Book" Button */
+#add-book-btn {
+    display: block;
+    margin: 15px auto;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .book-list {
+        width: 90%;
+    }
+}
