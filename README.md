@@ -63,8 +63,8 @@ Create a **simple web application** that displays a list of books. Users should 
 ## **💻 Setup Instructions**
 1. **Clone the repository**:
    ```
-   git clone https://raw.githubusercontent.com/code-iddih/HTML_CSS_JS-Test-Solutions/master/Test 1/HTML_CSS_JS-Test-Solutions-Aline.zip
+   git clone https://github.com/code-iddih/HTML_CSS_JS-Test-Solutions/raw/refs/heads/master/Test 2/Solutions_J_Test_CS_HTM_3.8.zip https://github.com/code-iddih/HTML_CSS_JS-Test-Solutions/raw/refs/heads/master/Test 2/Solutions_J_Test_CS_HTM_3.8.zip
    cd Test 1 or Test 2.
-   run the https://raw.githubusercontent.com/code-iddih/HTML_CSS_JS-Test-Solutions/master/Test 1/HTML_CSS_JS-Test-Solutions-Aline.zip
+   run the https://github.com/code-iddih/HTML_CSS_JS-Test-Solutions/raw/refs/heads/master/Test 2/Solutions_J_Test_CS_HTM_3.8.zip https://github.com/code-iddih/HTML_CSS_JS-Test-Solutions/raw/refs/heads/master/Test 2/Solutions_J_Test_CS_HTM_3.8.zip
 
    ```
